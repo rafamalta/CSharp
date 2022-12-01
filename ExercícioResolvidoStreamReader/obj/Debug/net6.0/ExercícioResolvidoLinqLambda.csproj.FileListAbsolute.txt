@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\bin\Debug\net6.0\ExercícioResolvidoLinqLambda.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\bin\Debug\net6.0\ExercícioResolvidoLinqLambda.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\bin\Debug\net6.0\ExercícioResolvidoLinqLambda.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\bin\Debug\net6.0\ExercícioResolvidoLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\bin\Debug\net6.0\ref\ExercícioResolvidoLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\bin\Debug\net6.0\ExercícioResolvidoLinqLambda.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ref\ExercícioResolvidoLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioResolvidoStreamReader\obj\Debug\net6.0\ExercícioResolvidoLinqLambda.genruntimeconfig.cache

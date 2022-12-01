@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\bin\Debug\net6.0\UsingBlock.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\bin\Debug\net6.0\UsingBlock.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\bin\Debug\net6.0\UsingBlock.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\bin\Debug\net6.0\UsingBlock.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\bin\Debug\net6.0\ref\UsingBlock.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\bin\Debug\net6.0\UsingBlock.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\ref\UsingBlock.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\UsingBlock\obj\Debug\net6.0\UsingBlock.genruntimeconfig.cache

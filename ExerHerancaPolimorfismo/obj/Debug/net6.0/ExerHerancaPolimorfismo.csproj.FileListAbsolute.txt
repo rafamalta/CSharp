@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\bin\Debug\net6.0\ExerHerancaPolimorfismo.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\bin\Debug\net6.0\ExerHerancaPolimorfismo.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\bin\Debug\net6.0\ExerHerancaPolimorfismo.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\bin\Debug\net6.0\ExerHerancaPolimorfismo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\bin\Debug\net6.0\ref\ExerHerancaPolimorfismo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\bin\Debug\net6.0\ExerHerancaPolimorfismo.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ref\ExerHerancaPolimorfismo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerHerancaPolimorfismo\obj\Debug\net6.0\ExerHerancaPolimorfismo.genruntimeconfig.cache

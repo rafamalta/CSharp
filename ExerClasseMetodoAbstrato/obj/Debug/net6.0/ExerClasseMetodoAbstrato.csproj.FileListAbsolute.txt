@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\bin\Debug\net6.0\ExerClasseMetodoAbstrato.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\bin\Debug\net6.0\ExerClasseMetodoAbstrato.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\bin\Debug\net6.0\ExerClasseMetodoAbstrato.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\bin\Debug\net6.0\ExerClasseMetodoAbstrato.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\bin\Debug\net6.0\ref\ExerClasseMetodoAbstrato.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\bin\Debug\net6.0\ExerClasseMetodoAbstrato.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ref\ExerClasseMetodoAbstrato.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerClasseMetodoAbstrato\obj\Debug\net6.0\ExerClasseMetodoAbstrato.genruntimeconfig.cache

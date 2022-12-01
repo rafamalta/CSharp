@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\bin\Debug\net6.0\DirectoryDirectoryInfo.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\bin\Debug\net6.0\DirectoryDirectoryInfo.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\bin\Debug\net6.0\DirectoryDirectoryInfo.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\bin\Debug\net6.0\DirectoryDirectoryInfo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\bin\Debug\net6.0\ref\DirectoryDirectoryInfo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\bin\Debug\net6.0\DirectoryDirectoryInfo.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\ref\DirectoryDirectoryInfo.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DirectoryDirectoryInfo\obj\Debug\net6.0\DirectoryDirectoryInfo.genruntimeconfig.cache

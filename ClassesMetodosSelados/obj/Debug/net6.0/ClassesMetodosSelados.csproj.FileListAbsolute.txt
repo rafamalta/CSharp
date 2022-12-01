@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\bin\Debug\net6.0\ClassesMetodosSelados.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\bin\Debug\net6.0\ClassesMetodosSelados.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\bin\Debug\net6.0\ClassesMetodosSelados.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\bin\Debug\net6.0\ClassesMetodosSelados.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\bin\Debug\net6.0\ref\ClassesMetodosSelados.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\bin\Debug\net6.0\ClassesMetodosSelados.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ref\ClassesMetodosSelados.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassesMetodosSelados\obj\Debug\net6.0\ClassesMetodosSelados.genruntimeconfig.cache

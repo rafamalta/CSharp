@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\bin\Debug\net6.0\DemoHeranca.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\bin\Debug\net6.0\DemoHeranca.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\bin\Debug\net6.0\DemoHeranca.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\bin\Debug\net6.0\DemoHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\bin\Debug\net6.0\ref\DemoHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\bin\Debug\net6.0\DemoHeranca.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\ref\DemoHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\DemoHeranca\obj\Debug\net6.0\DemoHeranca.genruntimeconfig.cache

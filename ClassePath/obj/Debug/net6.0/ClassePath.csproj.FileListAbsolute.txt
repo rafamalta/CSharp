@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\bin\Debug\net6.0\ClassePath.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\bin\Debug\net6.0\ClassePath.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\bin\Debug\net6.0\ClassePath.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\bin\Debug\net6.0\ClassePath.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\bin\Debug\net6.0\ref\ClassePath.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\bin\Debug\net6.0\ClassePath.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ref\ClassePath.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClassePath\obj\Debug\net6.0\ClassePath.genruntimeconfig.cache

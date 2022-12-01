@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\bin\Debug\net6.0\GenericsParte1.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\bin\Debug\net6.0\GenericsParte1.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\bin\Debug\net6.0\GenericsParte1.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\bin\Debug\net6.0\GenericsParte1.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\bin\Debug\net6.0\ref\GenericsParte1.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\bin\Debug\net6.0\GenericsParte1.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\ref\GenericsParte1.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GenericsParte1\obj\Debug\net6.0\GenericsParte1.genruntimeconfig.cache

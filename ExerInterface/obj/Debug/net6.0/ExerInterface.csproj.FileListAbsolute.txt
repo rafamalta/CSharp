@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\bin\Debug\net6.0\ExerInterface.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\bin\Debug\net6.0\ExerInterface.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\bin\Debug\net6.0\ExerInterface.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\bin\Debug\net6.0\ExerInterface.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\bin\Debug\net6.0\ref\ExerInterface.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\bin\Debug\net6.0\ExerInterface.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ref\ExerInterface.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerInterface\obj\Debug\net6.0\ExerInterface.genruntimeconfig.cache

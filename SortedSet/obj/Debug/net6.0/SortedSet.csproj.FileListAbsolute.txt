@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\bin\Debug\net6.0\SortedSet.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\bin\Debug\net6.0\SortedSet.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\bin\Debug\net6.0\SortedSet.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\bin\Debug\net6.0\SortedSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\bin\Debug\net6.0\ref\SortedSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\bin\Debug\net6.0\SortedSet.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\ref\SortedSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SortedSet\obj\Debug\net6.0\SortedSet.genruntimeconfig.cache

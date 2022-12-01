@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\bin\Debug\net6.0\ExercicioResolvidoSet.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\bin\Debug\net6.0\ExercicioResolvidoSet.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\bin\Debug\net6.0\ExercicioResolvidoSet.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\bin\Debug\net6.0\ExercicioResolvidoSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\bin\Debug\net6.0\ref\ExercicioResolvidoSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\bin\Debug\net6.0\ExercicioResolvidoSet.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ref\ExercicioResolvidoSet.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioResolvidoSet\obj\Debug\net6.0\ExercicioResolvidoSet.genruntimeconfig.cache

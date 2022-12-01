@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\bin\Debug\net6.0\RestricoesGenerics.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\bin\Debug\net6.0\RestricoesGenerics.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\bin\Debug\net6.0\RestricoesGenerics.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\bin\Debug\net6.0\RestricoesGenerics.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\bin\Debug\net6.0\ref\RestricoesGenerics.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\bin\Debug\net6.0\RestricoesGenerics.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\ref\RestricoesGenerics.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\RestricoesGenerics\obj\Debug\net6.0\RestricoesGenerics.genruntimeconfig.cache

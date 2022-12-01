@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\bin\Debug\net6.0\ref\TratamentoDeExcecoes.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\ref\TratamentoDeExcecoes.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.genruntimeconfig.cache

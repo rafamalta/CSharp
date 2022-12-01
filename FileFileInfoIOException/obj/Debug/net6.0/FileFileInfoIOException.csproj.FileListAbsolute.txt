@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\bin\Debug\net6.0\FileFileInfoIOException.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\bin\Debug\net6.0\FileFileInfoIOException.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\bin\Debug\net6.0\FileFileInfoIOException.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\bin\Debug\net6.0\FileFileInfoIOException.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\bin\Debug\net6.0\ref\FileFileInfoIOException.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\bin\Debug\net6.0\FileFileInfoIOException.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\ref\FileFileInfoIOException.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileFileInfoIOException\obj\Debug\net6.0\FileFileInfoIOException.genruntimeconfig.cache

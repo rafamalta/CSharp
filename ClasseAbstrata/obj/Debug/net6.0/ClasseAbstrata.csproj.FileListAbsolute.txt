@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\bin\Debug\net6.0\ref\ClasseAbstrata.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ref\ClasseAbstrata.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.genruntimeconfig.cache

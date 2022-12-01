@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\bin\Debug\net6.0\InterfaceVsHeranca.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\bin\Debug\net6.0\InterfaceVsHeranca.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\bin\Debug\net6.0\InterfaceVsHeranca.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\bin\Debug\net6.0\InterfaceVsHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\bin\Debug\net6.0\ref\InterfaceVsHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\bin\Debug\net6.0\InterfaceVsHeranca.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\ref\InterfaceVsHeranca.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceVsHeranca\obj\Debug\net6.0\InterfaceVsHeranca.genruntimeconfig.cache

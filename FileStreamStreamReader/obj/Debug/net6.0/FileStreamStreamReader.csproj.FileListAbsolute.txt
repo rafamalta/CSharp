@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\bin\Debug\net6.0\FileStreamStreamReader.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\bin\Debug\net6.0\FileStreamStreamReader.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\bin\Debug\net6.0\FileStreamStreamReader.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\bin\Debug\net6.0\FileStreamStreamReader.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\bin\Debug\net6.0\ref\FileStreamStreamReader.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\bin\Debug\net6.0\FileStreamStreamReader.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\ref\FileStreamStreamReader.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\FileStreamStreamReader\obj\Debug\net6.0\FileStreamStreamReader.genruntimeconfig.cache

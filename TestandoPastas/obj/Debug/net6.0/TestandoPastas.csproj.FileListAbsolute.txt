@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\bin\Debug\net6.0\TestandoPastas.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\bin\Debug\net6.0\TestandoPastas.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\bin\Debug\net6.0\TestandoPastas.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\bin\Debug\net6.0\TestandoPastas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\bin\Debug\net6.0\ref\TestandoPastas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\bin\Debug\net6.0\TestandoPastas.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\ref\TestandoPastas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\TestandoPastas\obj\Debug\net6.0\TestandoPastas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\bin\Debug\net6.0\Listas.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\bin\Debug\net6.0\Listas.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\bin\Debug\net6.0\Listas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\bin\Debug\net6.0\ref\Listas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\bin\Debug\net6.0\Listas.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\ref\Listas.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache

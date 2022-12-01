@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\bin\Debug\net6.0\ref\GetHashCodeEquals.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\ref\GetHashCodeEquals.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.AssemblyReference.cache

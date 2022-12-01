@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\bin\Debug\net6.0\ExercicioLinqLambda.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\bin\Debug\net6.0\ExercicioLinqLambda.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\bin\Debug\net6.0\ExercicioLinqLambda.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\bin\Debug\net6.0\ExercicioLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\bin\Debug\net6.0\ref\ExercicioLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\bin\Debug\net6.0\ExercicioLinqLambda.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ref\ExercicioLinqLambda.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioLinqLambda\obj\Debug\net6.0\ExercicioLinqLambda.genruntimeconfig.cache

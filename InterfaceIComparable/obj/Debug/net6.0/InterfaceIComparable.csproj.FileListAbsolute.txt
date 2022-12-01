@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\bin\Debug\net6.0\ref\InterfaceIComparable.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\ref\InterfaceIComparable.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\bin\Debug\net6.0\ExercicioTrabalhandoComArquivos.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\bin\Debug\net6.0\ExercicioTrabalhandoComArquivos.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\bin\Debug\net6.0\ExercicioTrabalhandoComArquivos.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\bin\Debug\net6.0\ExercicioTrabalhandoComArquivos.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\bin\Debug\net6.0\ref\ExercicioTrabalhandoComArquivos.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\bin\Debug\net6.0\ExercicioTrabalhandoComArquivos.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ref\ExercicioTrabalhandoComArquivos.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercicioTrabalhandoComArquivos\obj\Debug\net6.0\ExercicioTrabalhandoComArquivos.genruntimeconfig.cache

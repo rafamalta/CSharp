@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\bin\Debug\net6.0\ExercícioDictionary.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\bin\Debug\net6.0\ExercícioDictionary.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\bin\Debug\net6.0\ExercícioDictionary.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\bin\Debug\net6.0\ExercícioDictionary.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\bin\Debug\net6.0\ref\ExercícioDictionary.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\bin\Debug\net6.0\ExercícioDictionary.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ref\ExercícioDictionary.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExercícioDictionary\obj\Debug\net6.0\ExercícioDictionary.genruntimeconfig.cache

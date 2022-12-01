@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\bin\Debug\net6.0\ClasseStringBuillder.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\bin\Debug\net6.0\ClasseStringBuillder.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\bin\Debug\net6.0\ClasseStringBuillder.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\bin\Debug\net6.0\ClasseStringBuillder.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\bin\Debug\net6.0\ref\ClasseStringBuillder.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\bin\Debug\net6.0\ClasseStringBuillder.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ref\ClasseStringBuillder.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\StringBuillder\obj\Debug\net6.0\ClasseStringBuillder.genruntimeconfig.cache

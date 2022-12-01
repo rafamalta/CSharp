@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\bin\Debug\net6.0\SobrescritaVirtualOverrideBase.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\bin\Debug\net6.0\SobrescritaVirtualOverrideBase.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\bin\Debug\net6.0\SobrescritaVirtualOverrideBase.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\bin\Debug\net6.0\SobrescritaVirtualOverrideBase.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\bin\Debug\net6.0\ref\SobrescritaVirtualOverrideBase.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\bin\Debug\net6.0\SobrescritaVirtualOverrideBase.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\ref\SobrescritaVirtualOverrideBase.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\SobrescritaVirtualOverrideBase\obj\Debug\net6.0\SobrescritaVirtualOverrideBase.genruntimeconfig.cache

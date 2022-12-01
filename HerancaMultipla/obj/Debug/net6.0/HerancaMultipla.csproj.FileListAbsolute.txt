@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\bin\Debug\net6.0\ref\HerancaMultipla.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\ref\HerancaMultipla.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\bin\Debug\net6.0\ComposicaoExercicioResolvido.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\bin\Debug\net6.0\ComposicaoExercicioResolvido.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\bin\Debug\net6.0\ComposicaoExercicioResolvido.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\bin\Debug\net6.0\ComposicaoExercicioResolvido.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\bin\Debug\net6.0\ref\ComposicaoExercicioResolvido.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\bin\Debug\net6.0\ComposicaoExercicioResolvido.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ref\ComposicaoExercicioResolvido.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ComposicaoExercicioResolvido\obj\Debug\net6.0\ComposicaoExercicioResolvido.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\bin\Debug\net6.0\ExerEnumComposicao.exe
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\bin\Debug\net6.0\ExerEnumComposicao.deps.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\bin\Debug\net6.0\ExerEnumComposicao.runtimeconfig.json
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\bin\Debug\net6.0\ExerEnumComposicao.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\bin\Debug\net6.0\ref\ExerEnumComposicao.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\bin\Debug\net6.0\ExerEnumComposicao.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ref\ExerEnumComposicao.dll
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.pdb
+C:\Users\Rafael\Desktop\CSharpNelioAlves\ExerEnumComposicao\obj\Debug\net6.0\ExerEnumComposicao.genruntimeconfig.cache
